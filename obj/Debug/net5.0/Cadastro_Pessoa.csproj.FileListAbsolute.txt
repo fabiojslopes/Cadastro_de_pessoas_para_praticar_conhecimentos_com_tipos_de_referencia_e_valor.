@@ -1,0 +1,16 @@
+D:\Projects\Dio\Projetos\GFTstart3dotNET\Cadastro_Pessoa\bin\Debug\net5.0\Cadastro_Pessoa.exe
+D:\Projects\Dio\Projetos\GFTstart3dotNET\Cadastro_Pessoa\bin\Debug\net5.0\Cadastro_Pessoa.deps.json
+D:\Projects\Dio\Projetos\GFTstart3dotNET\Cadastro_Pessoa\bin\Debug\net5.0\Cadastro_Pessoa.runtimeconfig.json
+D:\Projects\Dio\Projetos\GFTstart3dotNET\Cadastro_Pessoa\bin\Debug\net5.0\Cadastro_Pessoa.runtimeconfig.dev.json
+D:\Projects\Dio\Projetos\GFTstart3dotNET\Cadastro_Pessoa\bin\Debug\net5.0\Cadastro_Pessoa.dll
+D:\Projects\Dio\Projetos\GFTstart3dotNET\Cadastro_Pessoa\bin\Debug\net5.0\ref\Cadastro_Pessoa.dll
+D:\Projects\Dio\Projetos\GFTstart3dotNET\Cadastro_Pessoa\bin\Debug\net5.0\Cadastro_Pessoa.pdb
+D:\Projects\Dio\Projetos\GFTstart3dotNET\Cadastro_Pessoa\obj\Debug\net5.0\Cadastro_Pessoa.csproj.AssemblyReference.cache
+D:\Projects\Dio\Projetos\GFTstart3dotNET\Cadastro_Pessoa\obj\Debug\net5.0\Cadastro_Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Dio\Projetos\GFTstart3dotNET\Cadastro_Pessoa\obj\Debug\net5.0\Cadastro_Pessoa.AssemblyInfoInputs.cache
+D:\Projects\Dio\Projetos\GFTstart3dotNET\Cadastro_Pessoa\obj\Debug\net5.0\Cadastro_Pessoa.AssemblyInfo.cs
+D:\Projects\Dio\Projetos\GFTstart3dotNET\Cadastro_Pessoa\obj\Debug\net5.0\Cadastro_Pessoa.csproj.CoreCompileInputs.cache
+D:\Projects\Dio\Projetos\GFTstart3dotNET\Cadastro_Pessoa\obj\Debug\net5.0\Cadastro_Pessoa.dll
+D:\Projects\Dio\Projetos\GFTstart3dotNET\Cadastro_Pessoa\obj\Debug\net5.0\ref\Cadastro_Pessoa.dll
+D:\Projects\Dio\Projetos\GFTstart3dotNET\Cadastro_Pessoa\obj\Debug\net5.0\Cadastro_Pessoa.pdb
+D:\Projects\Dio\Projetos\GFTstart3dotNET\Cadastro_Pessoa\obj\Debug\net5.0\Cadastro_Pessoa.genruntimeconfig.cache
